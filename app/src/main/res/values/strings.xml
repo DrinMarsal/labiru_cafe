@@ -1,3 +1,120 @@
 <resources>
-    <string name="app_name">labirucafe</string>
+    <string name="app_name">labiru</string>
+    <string name="onboarding">Onboarding</string>
+    <string name="nav_title_home">Beranda</string>
+    <string name="nav_title_scan">Scan</string>
+    <string name="nav_title_profile">Profil</string>
+    <string name="nav_title_favorite">Favorit</string>
+    <string name="nav_title_history">Riwayat</string>
+    <string name="nav_title_setting">Pengaturan</string>
+    <string name="tv_username">Alvin Afrinaldo</string>
+
+    <string name="title_menu_1">title 1</string>
+    <string name="title_menu_2">title 2</string>
+    <string name="title_menu_3">title 3</string>
+    <string name="title_menu_4">title 4</string>
+
+    <string name="desc_menu_1">Kenali kondisi kulitmu dan dapatkan solusi terbaik untuk perawatannya.</string>
+    <string name="desc_menu_2">Deteksi masalah kulit hanya dengan satu kali scan.</string>
+    <string name="desc_menu_3">Temukan rutinitas skincare yang sesuai untuk kulitmu.</string>
+    <string name="desc_menu_4">Siap untuk tampil percaya diri? Yuk, mulai scan sekarang!</string>
+
+    <string name="btn_start">Mulai</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup_acc">Daftar akun</string>
+    <string name="btn_signup">Daftar</string>
+    <string name="desc_auth">Cek kondisi kulitmu dan temukan langkah perawatannya di CeKulit</string>
+
+
+    <string name="title_signup">Hai!</string>
+    <string name="title_sub_signup">Buat akun kamu dulu yuk</string>
+    <string name="desc_signup">Sudah punya akun? </string>
+    <string name="desc_signup_here"><u>Masuk disini!</u></string>
+    <string name="tv_title_terms_condition">Syarat &amp; Ketentuan</string>
+    <string name="tv_title_sub_terms_condition">Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet </string>
+    <string name="tv_terms_condition">Setuju dengan</string>
+    <string name="tv_terms_condition_redirect"><u>Syarat &amp; Ketentuan</u></string>
+
+    <string name="tv_title_otp">Verifikasi OTP</string>
+    <string name="tv_title_sub_otp">Silahkan masukan OTP yang dikirim dari email </string>
+
+    <string name="tv_name">Nama</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_password">Password</string>
+    <string name="tv_age">Umur</string>
+    <string name="tv_gender">Jenis kelamin</string>
+    <string name="btn_save">Simpan</string>
+    <string name="btn_share">Bagikan</string>
+
+    <string name="title_login">Welcome!</string>
+    <string name="title_sub_login">Sign in to continue</string>
+    <string name="desc_login">Don`t have your account?</string>
+    <string name="desc_login_here"><u>Sign Up</u></string>
+    <string name="tv_forgot_password"><u>Lupa password?</u></string>
+    <string name="tv_login_option">atau masuk dengan</string>
+
+    <string name="tv_title_sub_forget_password">Jangan khawatir! silahkan masukan kembali email kamu untuk dikirim otp ke email tersebut.</string>
+    <string name="btn_continue">Lanjutkan</string>
+
+    <string name="tv_title_reset_password">Password Baru</string>
+    <string name="tv_title_sub_reset_password">Buat password baru anda!</string>
+
+    <string name="tv_title_history">Riwayat</string>
+    <string name="tv_title_sub_history">Riwayat cek kulit wajah kamu</string>
+
+    <string name="tv_result">Kondisi kulit kamu saat ini</string>
+    <string name="tv_skin_type">Tipe Kulit</string>
+    <string name="tv_skin_care">Bahan Skincare</string>
+    <string name="tv_oil_type">Beryinyak</string>
+    <string name="tv_ingredient_skin_care">Salicylic Acid, Glycolic Acid, Niacinamide</string>
+    <string name="tv_overview">Jenis kulit Anda tergolong berminyak. Kulit berminyak ditandai dengan produksi sebum (minyak alami kulit) yang berlebihan, yang dapat menyebabkan tampilan mengilap atau berminyak, terutama di daerah T (dahi, hidung, dan dagu).</string>
+    <string name="btn_routine">Yuk, rutin pakai skincare!</string>
+
+    <string name="tv_title_skincare">Rawat kulit kamu dengan skincare routine ini!</string>
+
+    <string name="tv_morning_skincare">Skincare Pagi</string>
+    <string name="tv_night_skincare">Skincare Malam</string>
+    <string name="btn_search_redirect">Search in Tokopedia</string>
+
+    <string name="send_success">Berhasil terkirim</string>
+    <string name="send_error">Gagal terkirim</string>
+    <string name="web_client_id">575073258145-5bsh1nqjmgjisg88v0jkgf46nn2l47bp.apps.googleusercontent.com</string>
+
+    <string name="tv_help">Dukungan &amp; dan Bantuan</string>
+    <string name="tv_forget_password">Lupa Password</string>
+    <string name="tv_logout">Keluar</string>
+    <string name="confirm_logout">Apakah anda yakin ingin keluar?</string>
+    <string name="confirm_yes">Iya</string>
+    <string name="confirm_no">Tidak</string>
+
+    <string name="tv_title_help">Kami di CeKulit siap membantu Anda dengan segala hal yang Anda butuhkan terkait aplikasi ini.</string>
+    <string name="tv_title_sub_help">Di CeKulit, tujuan kami sederhana: membantu Anda merasa lebih percaya diri dan mendapatkan informasi yang lebih baik tentang kesehatan kulit Anda setiap hari. Kami hadir untuk Anda. Bagikan kekhawatiran Anda atau jelajahi pertanyaan yang sering diajukan di bawah ini.</string>
+    <string name="tv_title_faq">FAQ</string>
+    <string name="tv_title_faq_1">Apa itu CeKulit?</string>
+    <string name="tv_title_sub_faq_1">CeKulit adalah aplikasi bertema kesehatan kulit yang dirancang untuk membantu pengguna memahami kondisi kulit mereka dengan lebih mudah. Aplikasi ini memanfaatkan teknologi image classification untuk menganalisis foto kulit pengguna dan mendeteksi apakah kulit tersebut berminyak, kering, atau normal.</string>
+    <string name="tv_title_faq_2">Bagaimana cara memindai kulit dengan aplikasi CeKulit?</string>
+    <string name="tv_title_faq_3">Apakah CeKulit memberikan rekomendasi skincare rutin?</string>
+
+    <string name="tv_title_homepage">Halo!</string>
+    <string name="tv_title_sub_homepage">Alvano Hastagina</string>
+
+    <string name="invalid_token">Waktu sesi habis, silahkan masuk kembali.</string>
+
+
+    <string name="tv_fav_empty">Kamu belum menambahkan produk apapun ke favorite kamu nih 😊</string>
+    <string name="tv_history_empty">Kamu belum pernah scan wajah kamu, ayo cek sekarang juga!</string>
+    <string name="tv_product_empty">Produk yang kamu cari belum ada nih 😢</string>
+
+    <string name="tv_description">Deskripsi</string>
+    <string name="toast_add_fav">Produk disimpan!</string>
+    <string name="toast_delete_fav">Produk dihapus!</string>
+
+    <string name="toast_permission_granted">Perizinan diterima!</string>
+    <string name="toast_permission_rejected">Perizinan ditolak!</string>
+
+    <string name="empty_image_warning">Gagal mengambil gambar.</string>
+    <string name="empty_camera_warning">Gagal membuka kamera.</string>
+    <string name="tv_ingredient">Bahan</string>
+    <string name="tv_step">Penggunaan</string>
+
 </resources>
