@@ -1,6 +1,5 @@
 package com.example.labirucafe.ui.auth.login
 
-import android.content.Intent
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AlertDialog
