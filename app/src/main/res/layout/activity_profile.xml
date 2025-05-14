@@ -68,7 +68,7 @@
             android:layout_width="24dp"
             android:layout_height="24dp"
             android:src="@drawable/ic_launcher_background"
-            android:tint="#4A89DC"
+            app:tint="#4A89DC"
             android:layout_marginEnd="8dp" />
 
         <TextView
